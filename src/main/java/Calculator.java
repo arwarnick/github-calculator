@@ -1,6 +1,8 @@
 
 class Calculator {
 
+    // Testing GitHub Actions workflow
+
     Calculator(){
 
     }
